@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000002587</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>500</width>
+                <height>375</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>banana</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>52</xmin><ymin>0</ymin><xmax>450</xmax><ymax>357</ymax></bndbox></object><object><name>donut</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>172</xmin><ymin>10</ymin><xmax>417</xmax><ymax>266</ymax></bndbox></object></annotation>

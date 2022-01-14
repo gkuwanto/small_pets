@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000001490</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>315</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>448</xmin><ymin>118</ymin><xmax>499</xmax><ymax>241</ymax></bndbox></object><object><name>surfboard</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>359</xmin><ymin>230</ymin><xmax>578</xmax><ymax>245</ymax></bndbox></object></annotation>

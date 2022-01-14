@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000009769</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>480</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>139</xmin><ymin>200</ymin><xmax>183</xmax><ymax>274</ymax></bndbox></object><object><name>fire hydrant</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>551</xmin><ymin>258</ymin><xmax>563</xmax><ymax>279</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>310</xmin><ymin>203</ymin><xmax>350</xmax><ymax>241</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>252</xmin><ymin>200</ymin><xmax>300</xmax><ymax>235</ymax></bndbox></object><object><name>truck</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>84</xmin><ymin>187</ymin><xmax>463</xmax><ymax>376</ymax></bndbox></object></annotation>

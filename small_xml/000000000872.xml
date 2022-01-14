@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000000872</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>621</width>
+                <height>640</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>sports ball</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>408</xmin><ymin>172</ymin><xmax>427</xmax><ymax>188</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>145</xmin><ymin>100</ymin><xmax>437</xmax><ymax>558</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>163</xmin><ymin>126</ymin><xmax>429</xmax><ymax>606</ymax></bndbox></object><object><name>baseball glove</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>368</xmin><ymin>157</ymin><xmax>426</xmax><ymax>203</ymax></bndbox></object></annotation>

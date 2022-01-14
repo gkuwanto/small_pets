@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000007991</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>359</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>knife</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>157</ymin><xmax>147</xmax><ymax>257</ymax></bndbox></object><object><name>carrot</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>170</xmin><ymin>70</ymin><xmax>480</xmax><ymax>339</ymax></bndbox></object><object><name>knife</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>6</xmin><ymin>115</ymin><xmax>151</xmax><ymax>159</ymax></bndbox></object></annotation>

@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000008762</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>427</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>traffic light</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>58</xmin><ymin>85</ymin><xmax>79</xmax><ymax>146</ymax></bndbox></object><object><name>traffic light</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>163</xmin><ymin>106</ymin><xmax>186</xmax><ymax>144</ymax></bndbox></object><object><name>traffic light</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>504</xmin><ymin>230</ymin><xmax>517</xmax><ymax>241</ymax></bndbox></object><object><name>traffic light</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>495</xmin><ymin>178</ymin><xmax>515</xmax><ymax>220</ymax></bndbox></object><object><name>car</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>109</xmin><ymin>285</ymin><xmax>122</xmax><ymax>292</ymax></bndbox></object><object><name>car</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>0</xmin><ymin>279</ymin><xmax>27</xmax><ymax>302</ymax></bndbox></object><object><name>traffic light</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>484</xmin><ymin>229</ymin><xmax>494</xmax><ymax>245</ymax></bndbox></object></annotation>

@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000002153</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>480</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>283</xmin><ymin>274</ymin><xmax>466</xmax><ymax>445</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>371</xmin><ymin>207</ymin><xmax>433</xmax><ymax>405</ymax></bndbox></object><object><name>baseball bat</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>372</xmin><ymin>184</ymin><xmax>459</xmax><ymax>236</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>174</xmin><ymin>0</ymin><xmax>239</xmax><ymax>119</ymax></bndbox></object><object><name>person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>275</xmin><ymin>302</ymin><xmax>379</xmax><ymax>436</ymax></bndbox></object></annotation>

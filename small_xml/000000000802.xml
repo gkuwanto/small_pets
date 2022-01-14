@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000000802</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>424</width>
+                <height>640</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>refrigerator</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>245</xmin><ymin>185</ymin><xmax>410</xmax><ymax>541</ymax></bndbox></object><object><name>oven</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>33</xmin><ymin>289</ymin><xmax>159</xmax><ymax>520</ymax></bndbox></object></annotation>

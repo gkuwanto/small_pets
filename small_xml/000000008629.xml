@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000008629</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>640</width>
+                <height>640</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>fork</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>592</xmin><ymin>284</ymin><xmax>621</xmax><ymax>338</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>435</xmin><ymin>430</ymin><xmax>605</xmax><ymax>579</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>429</xmin><ymin>231</ymin><xmax>621</xmax><ymax>395</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>231</xmin><ymin>434</ymin><xmax>424</xmax><ymax>625</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>44</xmin><ymin>425</ymin><xmax>182</xmax><ymax>602</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>21</xmin><ymin>13</ymin><xmax>414</xmax><ymax>344</ymax></bndbox></object><object><name>pizza</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>430</xmin><ymin>20</ymin><xmax>621</xmax><ymax>189</ymax></bndbox></object></annotation>

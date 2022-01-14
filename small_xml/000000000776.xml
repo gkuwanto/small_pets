@@ -1,0 +1,13 @@
+<annotation>
+            <folder>Annotations</folder>
+            <filename>000000000776</filename>
+            <source>
+                <database>COCO2017</database>
+            </source>
+            <size>
+                <width>428</width>
+                <height>640</height>
+                <depth>3</depth>
+            </size>
+            <segmented>0</segmented>
+        <object><name>teddy bear</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1</xmin><ymin>56</ymin><xmax>345</xmax><ymax>527</ymax></bndbox></object><object><name>teddy bear</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>2</xmin><ymin>278</ymin><xmax>320</xmax><ymax>632</ymax></bndbox></object><object><name>teddy bear</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>94</xmin><ymin>5</ymin><xmax>427</xmax><ymax>550</ymax></bndbox></object><object><name>bed</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>1</xmin><ymin>0</ymin><xmax>428</xmax><ymax>640</ymax></bndbox></object></annotation>
